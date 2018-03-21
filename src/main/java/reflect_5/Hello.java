@@ -1,5 +1,6 @@
 package reflect_5;
 
+//返回一个类的实现接口
 public class Hello {
     public static void main(String[] args){
         Class<?> demo = null;
